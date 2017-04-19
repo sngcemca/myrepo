@@ -1,2 +1,10 @@
 this is the first file
+<<<<<<< HEAD
 modified in the local repo
+=======
+ again i modified
+ so this is the latest version
+>>>>>>> a837533d90b4b5e611fc3196dc7df780955c1413
+
+so i modified again the local and going to commit............... latest version
+
